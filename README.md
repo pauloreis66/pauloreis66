@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding C#, C, Python
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://linktr.ee/ppreis
 
 <!---
 pauloreis66/pauloreis66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
