@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pauloreis66
 - 👀 I’m interested in coding C#, C, Python
 - 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on educational projects for ages 12-16
 - 📫 How to reach me ... https://linktr.ee/ppreis
 
 <!---
